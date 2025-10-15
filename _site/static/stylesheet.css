@@ -48,3 +48,56 @@ ul li a:hover {
     padding-bottom: 40px;
     padding-bottom: 40px;
 }
+
+/* Table styles */
+
+
+th.Event {
+    width: 23%; 
+    height: 18px;
+}
+
+th.Date {
+    width: 17%; 
+    height: 18px;
+}
+
+th.Location {
+    width: 27.6228%; 
+    height: 18px;
+}
+
+th.Moreinfo {
+    width: 21.3772%; 
+    height: 18px;
+}
+
+
+td.Event {
+    width: 23%; 
+    height: 40px;
+}
+
+td.Date {
+    width: 17%; 
+    height: 40px;
+}
+
+td.Location {
+    width: 27.6228%; 
+    height: 40px;
+}
+
+td.Moreinfo {
+    width: 21.3772%; 
+    height: 40px;
+}
+
+
+
+
+tr {
+    height: 40px;
+}
+
+

@@ -98,6 +98,14 @@ td.Moreinfo {
 
 tr {
     height: 40px;
+    background-color: white;
 }
 
+tbody tr:nth-child(even) {
+    background-color: #e8e6e0;
+}
 
+thead th {
+    background-color: #169b62;
+    color: white;
+}

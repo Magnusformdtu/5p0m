@@ -52,6 +52,9 @@ ul li a:hover {
 /* Table styles */
 
 
+.table-table-striped {
+    border-style: none;
+}
 th.Event {
     width: 23%; 
     height: 18px;
@@ -97,6 +100,7 @@ td.Moreinfo {
 
 
 tr {
+    border-style: none;
     height: 40px;
     background-color: white;
 }
@@ -106,6 +110,8 @@ tbody tr:nth-child(even) {
 }
 
 thead th {
+    border-style: none;
     background-color: #169b62;
     color: white;
+    
 }

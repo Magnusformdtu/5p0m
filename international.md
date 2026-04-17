@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<table class="table table-striped" width="100%">
+<table class="table-table-striped" width="100%">
     <thead>
         <tr>
             <th class="Event"><strong>Event </strong></th>
